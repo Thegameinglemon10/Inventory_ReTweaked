@@ -1,0 +1,32 @@
+# Builds & binaries
+build/
+run/
+bin/
+target/
+lib/
+invtweaks_docs/_build
+launcher/
+.gradle/
+*.zip
+*.jar
+
+!gradle-wrapper.jar
+
+# Tmp files
+*~
+*#
+
+# IDEs
+.classpath
+.project
+.settings
+.pydevproject
+.idea/
+*.iml
+
+# Misc
+*.rej
+classes/
+
+# Encrypted files
+invtweaks.keystore
