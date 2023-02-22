@@ -1,6 +1,4 @@
-<img src="http://inventory-tweaks.readthedocs.org/en/latest/_images/invtweaks.png" />
-
-> ## All Credits to the creators of [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) for original code.
+> ## All Credits to the creators of [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) for the original code.
 
 ## What's this project about
 As stated in the original description, Inventory Re-Tweaked is a client mod for [Minecraft](http://www.minecraft.net/), a game by [Mojang AB](http://mojang.com/). It implements various features to help players with the management of inventories and chests. This mod brings the Inventory Tweaks mod to the newer vesions. Primarily 1.19.3, but other versions may come in the future.
